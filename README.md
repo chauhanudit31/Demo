@@ -1,2 +1,2 @@
 # Demo
-Author - Chauhan Udit
+Author - Chauhan Udit Vijaybhai
